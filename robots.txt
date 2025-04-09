@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Host: https://medandailynews.github.io/berita/
+Sitemap: https://medandailynews.github.io/berita/sitemap.xml
